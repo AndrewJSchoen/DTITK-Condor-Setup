@@ -1,3 +1,6 @@
 [submodule "docopt"]
 	path = docopt
 	url = https://github.com/docopt/docopt
+[submodule "Job-Monitor"]
+	path = Job-Monitor
+	url = https://github.com/AndrewJSchoen/Job-Monitor
